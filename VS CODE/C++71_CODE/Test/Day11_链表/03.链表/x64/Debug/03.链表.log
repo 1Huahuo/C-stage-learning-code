@@ -1,0 +1,4 @@
+﻿  linkedlist.c
+D:\VS CODE\C++71_CODE\Test\Day11_链表\03.链表\linkedlist.c(90,6): warning C4029: 声明的形参表不同于定义
+D:\VS CODE\C++71_CODE\Test\Day11_链表\03.链表\linkedlist.c(228,24): warning C4028: 形参 1 与声明不一致
+  03.链表.vcxproj -> D:\VS CODE\C++71_CODE\Test\Day11_链表\x64\Debug\03.链表.exe

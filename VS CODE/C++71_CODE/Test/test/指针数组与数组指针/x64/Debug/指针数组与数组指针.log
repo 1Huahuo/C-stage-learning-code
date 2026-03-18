@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Test\test\指针数组与数组指针\main.c(43,7): warning C4101: “p1”: 未引用的局部变量
+D:\VS CODE\C++71_CODE\Test\test\指针数组与数组指针\main.c(46,8): warning C4101: “p2”: 未引用的局部变量
+  指针数组与数组指针.vcxproj -> D:\VS CODE\C++71_CODE\Test\test\x64\Debug\指针数组与数组指针.exe

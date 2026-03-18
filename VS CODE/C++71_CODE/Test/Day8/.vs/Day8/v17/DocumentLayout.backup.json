@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE95C0A-2EFF-4976-AC46-C2008FE15964}|08.\u7ED3\u6784\u4F53\\08.\u7ED3\u6784\u4F53.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\08.\u7ED3\u6784\u4F53\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AE95C0A-2EFF-4976-AC46-C2008FE15964}|08.\u7ED3\u6784\u4F53\\08.\u7ED3\u6784\u4F53.vcxproj|solutionrelative:08.\u7ED3\u6784\u4F53\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B7B369-3FEC-4E71-84C5-E47A77852ACD}|07.\u547D\u4EE4\u884C\u53C2\u6570\\07.\u547D\u4EE4\u884C\u53C2\u6570.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\07.\u547D\u4EE4\u884C\u53C2\u6570\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51B7B369-3FEC-4E71-84C5-E47A77852ACD}|07.\u547D\u4EE4\u884C\u53C2\u6570\\07.\u547D\u4EE4\u884C\u53C2\u6570.vcxproj|solutionrelative:07.\u547D\u4EE4\u884C\u53C2\u6570\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F839F-7E3B-422D-92DB-45879DCCB353}|06.\u5B57\u7B26\u4E32\u6570\u7EC4\\06.\u5B57\u7B26\u4E32\u6570\u7EC4.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\06.\u5B57\u7B26\u4E32\u6570\u7EC4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{319F839F-7E3B-422D-92DB-45879DCCB353}|06.\u5B57\u7B26\u4E32\u6570\u7EC4\\06.\u5B57\u7B26\u4E32\u6570\u7EC4.vcxproj|solutionrelative:06.\u5B57\u7B26\u4E32\u6570\u7EC4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B62FD83-DBEF-4651-9FB6-EAB6B0A215F2}|05.cmp\\05.cmp.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\05.cmp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B62FD83-DBEF-4651-9FB6-EAB6B0A215F2}|05.cmp\\05.cmp.vcxproj|solutionrelative:05.cmp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C3C7C-39F2-4463-A9A6-ACF6AA81DB45}|strcat\\strcat.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\strcat\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{954C3C7C-39F2-4463-A9A6-ACF6AA81DB45}|strcat\\strcat.vcxproj|solutionrelative:strcat\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960F6B8A-43DA-49AC-A822-6E7D6D02C04E}|03.strcpy\\03.strcpy.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\03.strcpy\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960F6B8A-43DA-49AC-A822-6E7D6D02C04E}|03.strcpy\\03.strcpy.vcxproj|solutionrelative:03.strcpy\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EC3DD2-2BDD-47B9-BF63-BDD27AEF4A4D}|2.strlen\\2.strlen.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\2.strlen\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8EC3DD2-2BDD-47B9-BF63-BDD27AEF4A4D}|2.strlen\\2.strlen.vcxproj|solutionrelative:2.strlen\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7F751B-C399-48DC-9B46-759CD8D57338}|11.\u679A\u4E3E\\11.\u679A\u4E3E.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\11.\u679A\u4E3E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A7F751B-C399-48DC-9B46-759CD8D57338}|11.\u679A\u4E3E\\11.\u679A\u4E3E.vcxproj|solutionrelative:11.\u679A\u4E3E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7DD704-1A56-4948-A4CD-4FA7DBDBC5FE}|9.sprintf\\9.sprintf.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\9.sprintf\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF7DD704-1A56-4948-A4CD-4FA7DBDBC5FE}|9.sprintf\\9.sprintf.vcxproj|solutionrelative:9.sprintf\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5170DE60-FE8E-48B4-8F03-2E85069391CB}|1\\1.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5170DE60-FE8E-48B4-8F03-2E85069391CB}|1\\1.vcxproj|solutionrelative:1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\08.\u7ED3\u6784\u4F53\\main.c",
+              "RelativeDocumentMoniker": "08.\u7ED3\u6784\u4F53\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\08.\u7ED3\u6784\u4F53\\main.c",
+              "RelativeToolTip": "08.\u7ED3\u6784\u4F53\\main.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T11:37:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\07.\u547D\u4EE4\u884C\u53C2\u6570\\main.c",
+              "RelativeDocumentMoniker": "07.\u547D\u4EE4\u884C\u53C2\u6570\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\07.\u547D\u4EE4\u884C\u53C2\u6570\\main.c",
+              "RelativeToolTip": "07.\u547D\u4EE4\u884C\u53C2\u6570\\main.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T11:28:18.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\06.\u5B57\u7B26\u4E32\u6570\u7EC4\\main.c",
+              "RelativeDocumentMoniker": "06.\u5B57\u7B26\u4E32\u6570\u7EC4\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\06.\u5B57\u7B26\u4E32\u6570\u7EC4\\main.c",
+              "RelativeToolTip": "06.\u5B57\u7B26\u4E32\u6570\u7EC4\\main.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T11:03:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\05.cmp\\main.c",
+              "RelativeDocumentMoniker": "05.cmp\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\05.cmp\\main.c",
+              "RelativeToolTip": "05.cmp\\main.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T01:22:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\strcat\\main.c",
+              "RelativeDocumentMoniker": "strcat\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\strcat\\main.c",
+              "RelativeToolTip": "strcat\\main.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T01:14:23.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\03.strcpy\\main.c",
+              "RelativeDocumentMoniker": "03.strcpy\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\03.strcpy\\main.c",
+              "RelativeToolTip": "03.strcpy\\main.c",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T00:55:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\11.\u679A\u4E3E\\main.c",
+              "RelativeDocumentMoniker": "11.\u679A\u4E3E\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\11.\u679A\u4E3E\\main.c",
+              "RelativeToolTip": "11.\u679A\u4E3E\\main.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T12:06:41.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\9.sprintf\\main.c",
+              "RelativeDocumentMoniker": "9.sprintf\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\9.sprintf\\main.c",
+              "RelativeToolTip": "9.sprintf\\main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T07:58:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\2.strlen\\main.c",
+              "RelativeDocumentMoniker": "2.strlen\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\2.strlen\\main.c",
+              "RelativeToolTip": "2.strlen\\main.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T02:22:28.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\1\\main.c",
+              "RelativeDocumentMoniker": "1\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day8\\1\\main.c",
+              "RelativeToolTip": "1\\main.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T01:41:50.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

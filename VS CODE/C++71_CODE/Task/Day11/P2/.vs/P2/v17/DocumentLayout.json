@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6F5061-FD0A-4B6C-9F7A-CE6001EF3618}|T4\\T4.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE6F5061-FD0A-4B6C-9F7A-CE6001EF3618}|T4\\T4.vcxproj|solutionrelative:T4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA54B627-727D-4307-9092-5678BDC8DF78}|T1\\T1.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA54B627-727D-4307-9092-5678BDC8DF78}|T1\\T1.vcxproj|solutionrelative:T1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134B58C3-14DC-4C67-A529-237A2FA2D768}|T2\\T2.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{134B58C3-14DC-4C67-A529-237A2FA2D768}|T2\\T2.vcxproj|solutionrelative:T2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C86F06-398E-481C-8A4A-4668D6715558}|T3\\T3.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8C86F06-398E-481C-8A4A-4668D6715558}|T3\\T3.vcxproj|solutionrelative:T3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T4\\main.c",
+              "RelativeDocumentMoniker": "T4\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T4\\main.c",
+              "RelativeToolTip": "T4\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-06T13:42:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T3\\main.c",
+              "RelativeDocumentMoniker": "T3\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T3\\main.c",
+              "RelativeToolTip": "T3\\main.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-06T13:15:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T2\\main.c",
+              "RelativeDocumentMoniker": "T2\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T2\\main.c",
+              "RelativeToolTip": "T2\\main.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAxwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-06T13:09:22.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T1\\main.c",
+              "RelativeDocumentMoniker": "T1\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Task\\Day11\\P2\\T1\\main.c",
+              "RelativeToolTip": "T1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-06T12:44:12.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

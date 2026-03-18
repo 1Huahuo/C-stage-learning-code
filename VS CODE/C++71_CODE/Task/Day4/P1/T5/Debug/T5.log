@@ -1,0 +1,3 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Task\Day4\P1\T5\main.c(52,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  T5.vcxproj -> D:\VS CODE\C++71_CODE\Task\Day4\P1\Debug\T5.exe

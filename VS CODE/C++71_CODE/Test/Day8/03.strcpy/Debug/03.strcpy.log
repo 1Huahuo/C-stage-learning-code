@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Test\Day8\03.strcpy\main.c(7,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\VS CODE\C++71_CODE\Test\Day8\03.strcpy\main.c(11,18): warning C4018: “<”: 有符号/无符号不匹配
+  03.strcpy.vcxproj -> D:\VS CODE\C++71_CODE\Test\Day8\Debug\03.strcpy.exe

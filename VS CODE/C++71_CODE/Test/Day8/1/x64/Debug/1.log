@@ -1,0 +1,8 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+D:\VS CODE\C++71_CODE\Test\Day8\1\main.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\1\main.c(17,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\1\main.c(13,8): warning C4047: “初始化”:“char *”与“char (*)[4]”的间接级别不同
+  1.vcxproj -> D:\VS CODE\C++71_CODE\Test\Day8\x64\Debug\字符串.exe

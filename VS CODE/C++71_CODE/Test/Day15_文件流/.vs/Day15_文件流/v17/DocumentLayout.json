@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DD4576-58A8-42EF-933A-33D8B07829E1}|12.\u9519\u8BEF\u5904\u7406\\12.\u9519\u8BEF\u5904\u7406.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\12.\u9519\u8BEF\u5904\u7406\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7DD4576-58A8-42EF-933A-33D8B07829E1}|12.\u9519\u8BEF\u5904\u7406\\12.\u9519\u8BEF\u5904\u7406.vcxproj|solutionrelative:12.\u9519\u8BEF\u5904\u7406\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED8F0C5-C24F-4431-8B68-61064BC8577D}|06.copy\\06.copy.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\06.copy\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EED8F0C5-C24F-4431-8B68-61064BC8577D}|06.copy\\06.copy.vcxproj|solutionrelative:06.copy\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCAA613-8E03-4DFF-96E2-54131F42B644}|07.\u6362\u884C\u7B26\\07.\u6362\u884C\u7B26.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\07.\u6362\u884C\u7B26\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CCAA613-8E03-4DFF-96E2-54131F42B644}|07.\u6362\u884C\u7B26\\07.\u6362\u884C\u7B26.vcxproj|solutionrelative:07.\u6362\u884C\u7B26\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8DD858-836F-45F6-9A6D-4ABF257A8A89}|08.\u590D\u5236\u56FE\u7247\\08.\u590D\u5236\u56FE\u7247.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\08.\u590D\u5236\u56FE\u7247\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8DD858-836F-45F6-9A6D-4ABF257A8A89}|08.\u590D\u5236\u56FE\u7247\\08.\u590D\u5236\u56FE\u7247.vcxproj|solutionrelative:08.\u590D\u5236\u56FE\u7247\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56386FA6-7485-48DF-9B89-411EDF7542B6}|11.fread\u0026fwrite\\11.fread\u0026fwrite.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\11.fread\u0026fwrite\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56386FA6-7485-48DF-9B89-411EDF7542B6}|11.fread\u0026fwrite\\11.fread\u0026fwrite.vcxproj|solutionrelative:11.fread\u0026fwrite\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF858C2F-65C0-4037-B0BF-E0A86168C8C7}|03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF858C2F-65C0-4037-B0BF-E0A86168C8C7}|03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4.vcxproj|solutionrelative:03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC2039A-D5CC-47F6-8C79-00E9C100B84C}|05.fputc\\05.fputc.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\05.fputc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC2039A-D5CC-47F6-8C79-00E9C100B84C}|05.fputc\\05.fputc.vcxproj|solutionrelative:05.fputc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07403FA1-6673-4E32-BF09-C2E95588A1E4}|04.\u53D1\u4E2A\u56FE\u3001\\04.\u53D1\u4E2A\u56FE\u3001.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\04.\u53D1\u4E2A\u56FE\u3001\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07403FA1-6673-4E32-BF09-C2E95588A1E4}|04.\u53D1\u4E2A\u56FE\u3001\\04.\u53D1\u4E2A\u56FE\u3001.vcxproj|solutionrelative:04.\u53D1\u4E2A\u56FE\u3001\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DCDAFE-0152-4222-921B-A1021150C178}|02.\u8DEF\u5F84\\02.\u8DEF\u5F84.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\02.\u8DEF\u5F84\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87DCDAFE-0152-4222-921B-A1021150C178}|02.\u8DEF\u5F84\\02.\u8DEF\u5F84.vcxproj|solutionrelative:02.\u8DEF\u5F84\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DC05DC-CB33-48DA-A600-DB5ED5FD31F0}|01.fopen\\01.fopen.vcxproj|D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\01.fopen\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8DC05DC-CB33-48DA-A600-DB5ED5FD31F0}|01.fopen\\01.fopen.vcxproj|solutionrelative:01.fopen\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\12.\u9519\u8BEF\u5904\u7406\\main.c",
+              "RelativeDocumentMoniker": "12.\u9519\u8BEF\u5904\u7406\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\12.\u9519\u8BEF\u5904\u7406\\main.c",
+              "RelativeToolTip": "12.\u9519\u8BEF\u5904\u7406\\main.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-17T04:41:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\11.fread\u0026fwrite\\main.c",
+              "RelativeDocumentMoniker": "11.fread\u0026fwrite\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\11.fread\u0026fwrite\\main.c",
+              "RelativeToolTip": "11.fread\u0026fwrite\\main.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-12T07:04:25.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\08.\u590D\u5236\u56FE\u7247\\main.c",
+              "RelativeDocumentMoniker": "08.\u590D\u5236\u56FE\u7247\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\08.\u590D\u5236\u56FE\u7247\\main.c",
+              "RelativeToolTip": "08.\u590D\u5236\u56FE\u7247\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-12T02:12:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\07.\u6362\u884C\u7B26\\main.c",
+              "RelativeDocumentMoniker": "07.\u6362\u884C\u7B26\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\07.\u6362\u884C\u7B26\\main.c",
+              "RelativeToolTip": "07.\u6362\u884C\u7B26\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:50:30.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\06.copy\\main.c",
+              "RelativeDocumentMoniker": "06.copy\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\06.copy\\main.c",
+              "RelativeToolTip": "06.copy\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:44:12.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\05.fputc\\main.c",
+              "RelativeDocumentMoniker": "05.fputc\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\05.fputc\\main.c",
+              "RelativeToolTip": "05.fputc\\main.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:40:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\04.\u53D1\u4E2A\u56FE\u3001\\main.c",
+              "RelativeDocumentMoniker": "04.\u53D1\u4E2A\u56FE\u3001\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\04.\u53D1\u4E2A\u56FE\u3001\\main.c",
+              "RelativeToolTip": "04.\u53D1\u4E2A\u56FE\u3001\\main.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:32:44.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\main.c",
+              "RelativeDocumentMoniker": "03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\main.c",
+              "RelativeToolTip": "03.\u6587\u4EF6\u6D41\u6807\u51C6\u6B65\u9AA4\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:29:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\02.\u8DEF\u5F84\\main.c",
+              "RelativeDocumentMoniker": "02.\u8DEF\u5F84\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\02.\u8DEF\u5F84\\main.c",
+              "RelativeToolTip": "02.\u8DEF\u5F84\\main.c",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:25:03.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\01.fopen\\main.c",
+              "RelativeDocumentMoniker": "01.fopen\\main.c",
+              "ToolTip": "D:\\VS CODE\\C\u002B\u002B71_CODE\\Test\\Day15_\u6587\u4EF6\u6D41\\01.fopen\\main.c",
+              "RelativeToolTip": "01.fopen\\main.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T10:10:25.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

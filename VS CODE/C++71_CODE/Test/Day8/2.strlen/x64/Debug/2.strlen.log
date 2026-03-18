@@ -1,0 +1,49 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(2.strlen.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(8,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(9,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(14,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(15,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(16,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(21,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(34,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(34,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(35,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(35,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(37,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(38,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(38,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(40,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(41,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(41,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(44,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(44,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(45,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(46,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(47,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS CODE\C++71_CODE\Test\Day8\2.strlen\main.c(47,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  2.strlen.vcxproj -> D:\VS CODE\C++71_CODE\Test\Day8\x64\Debug\02.strlen.exe

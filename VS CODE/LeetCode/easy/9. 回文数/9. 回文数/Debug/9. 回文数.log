@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\LeetCode\easy\9. 回文数\9. 回文数\main.c(56,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS CODE\LeetCode\easy\9. 回文数\9. 回文数\main.c(58,35): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  9. 回文数.vcxproj -> D:\VS CODE\LeetCode\easy\9. 回文数\Debug\9. 回文数.exe

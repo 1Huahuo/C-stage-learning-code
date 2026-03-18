@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Test\test\1\main.c(16,7): warning C4047: “=”:“int”与“int *”的间接级别不同
+D:\VS CODE\C++71_CODE\Test\test\1\main.c(15,7): warning C4047: “初始化”:“int *”与“int **”的间接级别不同
+  1.vcxproj -> D:\VS CODE\C++71_CODE\Test\test\Debug\1.exe

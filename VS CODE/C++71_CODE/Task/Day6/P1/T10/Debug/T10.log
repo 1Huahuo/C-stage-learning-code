@@ -1,0 +1,3 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Task\Day6\P1\T10\main.c(69): warning C4715: “is_palindrome”: 不是所有的控件路径都返回值
+  T10.vcxproj -> D:\VS CODE\C++71_CODE\Task\Day6\P1\Debug\T10.exe

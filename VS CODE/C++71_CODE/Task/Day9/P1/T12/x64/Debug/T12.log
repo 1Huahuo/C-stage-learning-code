@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Task\Day9\P1\T12\main.c(21,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Task\Day9\P1\T12\main.c(22,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  T12.vcxproj -> D:\VS CODE\C++71_CODE\Task\Day9\P1\x64\Debug\T12.exe

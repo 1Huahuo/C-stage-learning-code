@@ -1,0 +1,5 @@
+﻿  main.c
+D:\VS CODE\LeetCode\medium\2.两数相加\2.两数相加\main.c(22,31): warning C4013: “malloc”未定义；假设外部返回 int
+D:\VS CODE\LeetCode\medium\2.两数相加\2.两数相加\main.c(22,1): warning C4047: “初始化”:“ListNode *”与“int”的间接级别不同
+D:\VS CODE\LeetCode\medium\2.两数相加\2.两数相加\main.c(29,1): warning C4047: “初始化”:“ListNode *”与“int”的间接级别不同
+  2.两数相加.vcxproj -> D:\VS CODE\LeetCode\medium\2.两数相加\Debug\2.两数相加.exe

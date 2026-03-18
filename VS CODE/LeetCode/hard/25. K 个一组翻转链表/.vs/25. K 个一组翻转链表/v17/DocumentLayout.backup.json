@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS CODE\\LeetCode\\hard\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02076CEA-BC26-40DE-AC31-7773786AE4DA}|25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868.vcxproj|D:\\VS CODE\\LeetCode\\hard\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02076CEA-BC26-40DE-AC31-7773786AE4DA}|25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868.vcxproj|solutionrelative:25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VS CODE\\LeetCode\\hard\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\main.c",
+              "RelativeDocumentMoniker": "25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\main.c",
+              "ToolTip": "D:\\VS CODE\\LeetCode\\hard\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\main.c*",
+              "RelativeToolTip": "25. K \u4E2A\u4E00\u7EC4\u7FFB\u8F6C\u94FE\u8868\\main.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-02T03:41:16.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Task\Day11\P1\T3\main.c(27,23): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS CODE\C++71_CODE\Task\Day11\P1\T3\main.c(36,23): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  T3.vcxproj -> D:\VS CODE\C++71_CODE\Task\Day11\P1\x64\Debug\T3.exe

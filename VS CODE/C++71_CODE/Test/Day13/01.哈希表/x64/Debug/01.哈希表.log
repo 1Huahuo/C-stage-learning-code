@@ -1,0 +1,4 @@
+﻿  hash_map.c
+  main.c
+  正在生成代码...
+D:\VS CODE\C++71_CODE\Test\Day13\01.哈希表\hash_map.c(5,15): error C2059: 语法错误:“-=”

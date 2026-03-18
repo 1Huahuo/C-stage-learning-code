@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Test\Day8\08.结构体\main.c(74,2): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\VS CODE\C++71_CODE\Test\Day8\08.结构体\main.c(87,17): warning C4101: “s1”: 未引用的局部变量
+  08.结构体.vcxproj -> D:\VS CODE\C++71_CODE\Test\Day8\x64\Debug\08.结构体.exe

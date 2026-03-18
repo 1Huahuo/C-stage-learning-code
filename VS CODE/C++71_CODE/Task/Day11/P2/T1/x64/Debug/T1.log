@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Task\Day11\P2\T1\main.c(78,15): warning C4047: “函数”:“Node **”与“Node *”的间接级别不同
+D:\VS CODE\C++71_CODE\Task\Day11\P2\T1\main.c(78,15): warning C4024: “insert_tail”: 形参和实参 1 的类型不同
+  T1.vcxproj -> D:\VS CODE\C++71_CODE\Task\Day11\P2\x64\Debug\T1.exe

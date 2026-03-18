@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS CODE\C++71_CODE\Task\Day5\T7\main.c(20,40): warning C4474: printf: 格式字符串中传递的参数太多
+D:\VS CODE\C++71_CODE\Task\Day5\T7\main.c(20,40): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  T7.vcxproj -> D:\VS CODE\C++71_CODE\Task\Day5\Debug\T7.exe
